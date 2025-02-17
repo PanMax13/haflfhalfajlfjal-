@@ -6,4 +6,5 @@ def check_password(password: str) -> str:
 
 
 if __name__ == "__main__":
+    print("afaljfafja;jf;")
     other_function()
